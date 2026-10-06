@@ -8,3 +8,4 @@ My solutions to [LeetCode](https://leetcode.com/) problems in C# (.NET 10).
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List, Math, Recursion | O(max(m, n)) / O(max(m, n)) | [code](AddTwoNumbersLinkedList/AddTwoNumbersLinkedList/Program.cs) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | Math | O(log n) / O(1) | [code](PalindromeNumber/PalindromeNumber/Program.cs) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | O(m + n) / O(1) | [code](MergeSortedArray/MergeSortedArray/Program.cs) |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | Two Pointers, String | O(m + n) / O(m + n) | [code](1768_MergeStringsAlternately/1768_MergeStringsAlternately/Program.cs) |
