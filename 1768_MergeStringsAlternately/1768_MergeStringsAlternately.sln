@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768_MergeStringsAlternately", "1768_MergeStringsAlternately\1768_MergeStringsAlternately.csproj", "{198EF6BD-34BD-496D-A640-86A91ACEBEF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{198EF6BD-34BD-496D-A640-86A91ACEBEF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198EF6BD-34BD-496D-A640-86A91ACEBEF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198EF6BD-34BD-496D-A640-86A91ACEBEF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198EF6BD-34BD-496D-A640-86A91ACEBEF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A06C6C03-2247-4389-97BE-28CD78835405}
+	EndGlobalSection
+EndGlobal
